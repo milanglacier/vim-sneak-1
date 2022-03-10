@@ -13,7 +13,7 @@ set cpo&vim
 
 let g:vim_sneak_hl_group_target = "vim_sneak_target"
 let s:target_hl_defaults = {
-    \   'gui'     : ['NONE', '#ffffff' , 'bold']
+    \   'gui'     : ['DarkMagenta', 'white' , 'bold']
     \ , 'cterm256': ['NONE', '255'     , 'bold']
     \ , 'cterm'   : ['NONE', 'white'     , 'bold']
     \ }
